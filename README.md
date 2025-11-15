@@ -79,11 +79,6 @@ import wandb
 El notebook llama a `wandb.init(...)`. Con `WANDB_MODE=offline` las ejecuciones quedarán registradas en el directorio `wandb/` y se podrán subir más tarde si se desea.
 
 ## Resultados y artefactos
-
-- **Resumen de experimentos**: `runs_lenet/lenet_summary.csv` (cada fila: dataset, run, lr, wd, batch, epochs, métricas).
-- **Pesos guardados**: 
-  - LeNet5 (varios runs): `models/lenet5_best_run*.pth`, `models/lenet5_aug_best_run*.pth`, `models/lenet5_tanh_bn_best_run*.pth`
-  - ResNet18: `models/MODEL_B_resnet18_audio_best_run*.pth`, `models/resnet18_audio_AUG_best_run*.pth`
 - **Panel interactivo**: si usas wandb online, revisa el proyecto `Proyecto1_IA` en wandb.ai.
 
 ## Buenas prácticas y consejos
