@@ -101,9 +101,6 @@ El notebook llama a `wandb.init(...)`. Con `WANDB_MODE=offline` las ejecuciones 
 - **Modelo B - ResNet18**: arquitectura ResNet18 adaptada para clasificación de audio, entrenada tanto en datos raw como aumentados (AUG).
 - `run_experiment`: bucle principal que entrena, valida y evalúa; el código de entrenamiento/validación/test está inline para mayor claridad (sin funciones auxiliares).
 
-## Cómo contribuir / Contacto
-
-Si quieres contribuir, abre un issue o PR con cambios concretos. Para preguntas rápidas, contacta al autor del repo.
 
 ---
 
