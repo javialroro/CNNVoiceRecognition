@@ -107,5 +107,5 @@ Si quieres contribuir, abre un issue o PR con cambios concretos. Para preguntas 
 
 ---
 
-**Autores**: Javier Alonso Rojas Rojas, Brandon Emmanuel Sanchez Araya, Julio Josue Varela Venegas
+**Autores**: Javier Alonso Rojas Rojas, Brandon Emmanuel Sanchez Araya
 **Curso**: Inteligencia Artificial - TEC 2025 II
